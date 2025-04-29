@@ -1,4 +1,4 @@
-# Waste Material Segregation for Improving Waste Management
+# Waste Segregation for Improving Waste Management
 
 ## Objective
 The aim of this endeavor is to develop a sophisticated waste segregation framework leveraging convolutional neural networks (CNNs) to effectively differentiate and classify waste into discrete categories. This initiative aspires to bolster recycling efficacy, mitigate ecological degradation, and foster environmentally sustainable waste management protocols.
